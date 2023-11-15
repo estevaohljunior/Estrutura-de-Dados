@@ -1,3 +1,3 @@
-# Linguagem de Programação 1
+# Estrutura de Dados
 # Descrição
-Repositorio voltado para armazenamento das atividades e avaliações, da disciplina de Linguagens de Programação 1. Foi utilizada a linguagem C para o desenvolvimento dos exercícios.
+Um repositório destinado a armazenar as tarefas e avaliações relacionadas à disciplina de Estrutura de Dados - Teoria e Laboratório, onde a linguagem C foi empregada na elaboração dos exercícios e avaliações.
